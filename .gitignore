@@ -1,6 +1,6 @@
 .DS_Store
 .idea/*
-experiments
+experiments/pretrained_models/*.pth
 logs/
 *results*
 *__pycache__*

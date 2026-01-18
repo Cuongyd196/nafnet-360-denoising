@@ -31,7 +31,7 @@ nafnet-360-denoising/
 │  └─ test208.jpg
 ├─ options/
 │  └─ test/SIDD/NAFNet-width64.yml
-├─ pretrained_models/
+├─ experiments/pretrained_models/
 │  └─ NAFNet-SIDD-width64.pth
 ```
 
